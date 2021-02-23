@@ -1,4 +1,4 @@
-augroup promela_ft
+augroup lama_ft
   au!
-  autocmd BufNewFile,BufRead *.lama   set filetype=lama
+  autocmd BufNewFile,BufRead *.lama set filetype=lama
 augroup END
